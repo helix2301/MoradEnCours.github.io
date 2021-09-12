@@ -17,3 +17,5 @@ I will progressively start to complete this section as I gain the inspiration to
 * I am currently configuring a Linkedin profile but the site itself is very clunky to deal with.<br/>
 
 * Likewise, I might make a discord account eventually.
+
+* I will properly set up a YT account once I am ready to store video content that's worth saving.

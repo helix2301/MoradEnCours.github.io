@@ -32,7 +32,7 @@ layout: home
     As for my occupation at the moment, in a nutshell, I am a software engineering student (third year) at the University of Glasgow.
     </p>
     <p>
-    For a more in-depth grounding about me and what I'm currently cooking up, check out the About page. With that said, I now leave you to explore the rest of the site as you like. May you profit from what you discover.
+    For a more in-depth grounding about me and what I'm currently cooking up, check out the <a href="/about/">About</a> page. With that said, I now leave you to explore the rest of the site as you like. May you profit from what you discover.
     </p>
 </div>
 <!-- </div> -->

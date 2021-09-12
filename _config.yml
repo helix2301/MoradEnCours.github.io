@@ -27,10 +27,11 @@ permalink: pretty
 
 # Social settings
 social_sites:
-  github: https://github.com/MoradEnCours
-  youtube: https://youtube.com/MoradEnCours
-  twitter: https://twitter.com/MoradEnCours
-  twitch: https://twitch.com/MoradEnCours
+  github : MoradEnCours
+  youtube: MoradEnCours
+  twitter: MenCours
+  twitch : MenCours
+  linkedin : morad-e-513b1821b
 
 # rss: rss
 

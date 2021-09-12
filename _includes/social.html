@@ -10,5 +10,5 @@
     {% if site.social_sites.youtube %}<li><a href="https://youtube.com/{{ site.social_sites.youtube | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="/assets/icons.svg#youtube"></use></svg> <span class="username">Youtube</span></a></li>{% endif %}
     {% if site.social_sites.googleplus %}<li><a href="https://plus.google.com/{{ site.social_sites.googleplus | escape }}"><svg class="svg-icon"><use xlink:href="/assets/icons.svg#googleplus"></use></svg> <span class="username">Google+</span></a></li>{% endif %}
     {% if site.rss %}<li><a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><use xlink:href="/assets/icons.svg#rss"></use></svg> <span>RSS</span></a></li>{% endif %}
-    {% if site.social_sites.youtube %}<li><a href="https://youtube.com/{{ site.social_sites.youtube | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="/assets/icons.svg#youtube"></use></svg> <span class="username">Twitch</span></a></li>{% endif %}
+    {% if site.social_sites.twitch %}<li><a href="https://www.twitch.com/{{ site.social_sites.twitch | cgi_escape | escape }}"><svg class="svg-icon"><use href="/assets/twitch.svg#twitch"></use></svg> <span class="username">Twitch</span></a></li>{% endif %}
 </ul>
